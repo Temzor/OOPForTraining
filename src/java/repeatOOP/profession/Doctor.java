@@ -1,4 +1,4 @@
-package java.repeatOOP;
+package java.repeatOOP.profession;
 
 public class Doctor extends Profession {
     private String qualification;

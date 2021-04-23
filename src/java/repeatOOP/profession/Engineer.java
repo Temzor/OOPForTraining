@@ -1,4 +1,4 @@
-package java.repeatOOP;
+package java.repeatOOP.profession;
 
 public class Engineer extends Profession {
     private String industry;

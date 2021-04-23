@@ -1,4 +1,4 @@
-package java.repeatOOP;
+package java.repeatOOP.profession;
 
 public class Builder extends Engineer {
     private int workExperience;

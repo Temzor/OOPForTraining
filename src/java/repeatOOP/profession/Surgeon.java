@@ -1,4 +1,4 @@
-package java.repeatOOP;
+package java.repeatOOP.profession;
 
 public class Surgeon extends  Doctor {
     private String surgeonType;
